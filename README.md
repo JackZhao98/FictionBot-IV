@@ -1,4 +1,4 @@
-# FictionBot IV
+# FictionBot IV 
 This is the 4.0 Version of Fiction Bot, a pure Python-based internet novel downloader, more concise and readable code, 3x faster than previous versions. 
 
 ## What's New?
@@ -10,3 +10,5 @@ This is the 4.0 Version of Fiction Bot, a pure Python-based internet novel downl
 **txt** files are good, but not good enough for reading. This script is able to create a minimal **ePub** package where all chapters 
 are properly indexed which enables the **TOC** feature across all reading devices! ~(Except Kindle, you have to convert it to MOBI format first)~
 
+## Kindle ebook Workflow: Download, Pack, Convert, Send!
+We do the previous two steps for you only :)
